@@ -93,41 +93,17 @@
       "published": true
     },
     {
-      "title": "Title",
-      "body": "Test bosy",
+      "title": "Learn vuejs with router 4",
+      "body": "ut aspernatur corporis harum nihil quis provident sequi mollitia nobis aliquid molestiae perspiciatis et ea nemo ab reprehenderit accusantium quas voluptate dolores velit et doloremque molestiae",
       "tags": [
-        "tst",
-        "stest",
-        "st"
+        "react",
+        "vue",
+        "angular"
       ],
-      "createdBy": "Nabed Khan",
-      "createdAt": 1693584996154,
+      "createdAt": 1695402460041,
       "userId": 1,
+      "published": true,
       "id": 7
-    },
-    {
-      "title": "Nbae",
-      "body": "nabefr",
-      "tags": [
-        "n",
-        "ndsfndsj",
-        "sdfsdf"
-      ],
-      "createdBy": "Nabed Khan",
-      "createdAt": 1693587288634,
-      "userId": 1,
-      "id": 8
-    },
-    {
-      "title": "dfgdfgdfg",
-      "body": "dfgdfgdfg",
-      "tags": [
-        "dfgdfgdfgdfgdfgdf"
-      ],
-      "createdBy": "Nabed Khan",
-      "createdAt": 1693587538074,
-      "userId": 1,
-      "id": 9
     }
   ]
 }
